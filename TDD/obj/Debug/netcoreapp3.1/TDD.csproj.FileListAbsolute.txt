@@ -1,0 +1,16 @@
+C:\Users\magic\source\repos\TDD\TDD\bin\Debug\netcoreapp3.1\TDD.exe
+C:\Users\magic\source\repos\TDD\TDD\bin\Debug\netcoreapp3.1\TDD.deps.json
+C:\Users\magic\source\repos\TDD\TDD\bin\Debug\netcoreapp3.1\TDD.runtimeconfig.json
+C:\Users\magic\source\repos\TDD\TDD\bin\Debug\netcoreapp3.1\TDD.runtimeconfig.dev.json
+C:\Users\magic\source\repos\TDD\TDD\bin\Debug\netcoreapp3.1\TDD.dll
+C:\Users\magic\source\repos\TDD\TDD\bin\Debug\netcoreapp3.1\TDD.pdb
+C:\Users\magic\source\repos\TDD\TDD\obj\Debug\netcoreapp3.1\TDD.csproj.AssemblyReference.cache
+C:\Users\magic\source\repos\TDD\TDD\obj\Debug\netcoreapp3.1\TDD.Form1.resources
+C:\Users\magic\source\repos\TDD\TDD\obj\Debug\netcoreapp3.1\TDD.csproj.GenerateResource.cache
+C:\Users\magic\source\repos\TDD\TDD\obj\Debug\netcoreapp3.1\TDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magic\source\repos\TDD\TDD\obj\Debug\netcoreapp3.1\TDD.AssemblyInfoInputs.cache
+C:\Users\magic\source\repos\TDD\TDD\obj\Debug\netcoreapp3.1\TDD.AssemblyInfo.cs
+C:\Users\magic\source\repos\TDD\TDD\obj\Debug\netcoreapp3.1\TDD.csproj.CoreCompileInputs.cache
+C:\Users\magic\source\repos\TDD\TDD\obj\Debug\netcoreapp3.1\TDD.dll
+C:\Users\magic\source\repos\TDD\TDD\obj\Debug\netcoreapp3.1\TDD.pdb
+C:\Users\magic\source\repos\TDD\TDD\obj\Debug\netcoreapp3.1\TDD.genruntimeconfig.cache
